@@ -1,4 +1,4 @@
-package SeleniumDers1_exe;
+package Ders1_exe;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

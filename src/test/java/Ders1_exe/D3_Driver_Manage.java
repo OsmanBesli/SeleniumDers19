@@ -1,4 +1,4 @@
-package SeleniumDers1_exe;
+package Ders1_exe;
 
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
