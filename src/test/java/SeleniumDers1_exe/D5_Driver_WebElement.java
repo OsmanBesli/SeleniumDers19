@@ -19,14 +19,15 @@ public class D5_Driver_WebElement {
          //Bir yeri tıklatmak için birinci yol
          driver.findElement(By.id("nav-search-submit-button")).click();
 
+
          //Bir yeri tıklatmak için ikinci yol
-         searchBox.submit();
+         //searchBox.submit();
 
          //Bir yeri tıklatmak için üçüncü yol
          /*WebElement searchButton = driver.findElement(By.id("nav-search-submit-button"));
          searchBox.click();*/
 
-         //driver.close();
+         driver.close();
 
 
 
